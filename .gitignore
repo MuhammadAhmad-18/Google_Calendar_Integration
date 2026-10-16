@@ -1,0 +1,14 @@
+node_modules/
+.next/
+.next-*/
+out/
+coverage/
+.vercel/
+.env*
+!.env.example
+*.tsbuildinfo
+*.log
+playwright-report/
+test-results/
+client_secret*.json
+credentials*.json
